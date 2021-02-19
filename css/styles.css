@@ -1,0 +1,54 @@
+body {
+    background-color: #444;
+    color: #fff;
+}
+
+.divHeaderContent1 {
+    background-color:  #f00;
+    height: 100px;
+    width: 100px;
+}
+
+.divHeaderContent2 {
+    background-color:  #fff;
+    height: 100px;
+    width: 100px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.divHeaderContent3 {
+    background-color: hsl(251, 97%, 37%);
+    height: 100px;
+    width: 100px;
+}
+
+.content1 {
+    background-color: hsl(251, 97%, 37%);
+    height: 30px;
+    width: 80px;
+    margin: 4%;
+}
+
+.emptyDiv {
+    background-color: #fff;
+    height: 121px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.rightContent {
+    background-color: #f00;
+}
+
+.rodapePrincipal .container {
+    display: flex;
+    background-color: blue;
+    margin-top: 30px;
+    flex-wrap: 1;
+    flex-shrink: 2;
+}
+
+.footerDiv {
+    height: 100px;
+}
